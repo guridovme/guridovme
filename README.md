@@ -35,5 +35,15 @@ Here are some ideas to get you started:-->
 Digital Marketing: SEO and PPC
 <h2>📫 How to reach me:</h2>
 <a href="https://t.me/guridovme" rel="nofollow"><img src="https://camo.githubusercontent.com/8a8dddad66988843eb01219c9e0e66783e879593522f707f72308eaa71f764e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d3039303930393f7374796c653d736f6369616c266c6f676f3d54656c656772616d266c6f676f436f6c6f723d323741304439" alt="Telegram" data-canonical-src="https://img.shields.io/badge/-Telegram-090909?style=social&amp;logo=Telegram&amp;logoColor=27A0D9" style="max-width: 100%;"></a>
+<h2>GitHub Profile Summary Cards</h2>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guridovme&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guridovme&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guridovme&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guridovme&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=guridovme&theme=default&utcOffset=8)
 
 
