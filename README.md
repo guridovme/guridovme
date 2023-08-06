@@ -14,12 +14,12 @@ Here are some ideas to get you started:-->
 
 <h2>🌱 I’m currently learning:</h2>
 
-<ol>
+<ul>
   <li>REST API</li>
-<li>JavaScript-frameworks (React/Vue/Angular/ExtJs)</li>
-<li>SCSS</li>
-<li>PHP</li>
-</ol>
+  <li>JavaScript-frameworks (React/Vue/Angular/ExtJs)</li>
+  <li>SCSS</li>
+  <li>PHP</li>
+</ul>
 <h2>Stack:</h2>
 <p>
             
