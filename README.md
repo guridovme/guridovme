@@ -10,6 +10,7 @@ Here are some ideas to get you started:-->
   <li>Movies List</li>
   <li>Movie Search App</li>
   <li>Karaoke Bar</li>
+  <li>React Metrica</li>
 </ol>
 
 <h2>🌱 I’m currently learning:</h2>
