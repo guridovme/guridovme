@@ -17,7 +17,8 @@ Here are some ideas to get you started:-->
 
 <ul>
   <li>Wordpress</li>
-  <li>JavaScript-frameworks (React/Vue/Angular)</li>
+  <li>Vite</li>
+  <li>React</li>
   <li>SCSS</li>
   <li>PHP</li>
   <li>REST API</li>
