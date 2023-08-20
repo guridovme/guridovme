@@ -11,6 +11,7 @@ Here are some ideas to get you started:-->
   <li>Movie Search App</li>
   <li>Karaoke Bar</li>
   <li>React Metrica</li>
+  <li>Trips Gallery</li>
 </ol>
 
 <h2>🌱 I’m currently learning:</h2>
@@ -21,7 +22,8 @@ Here are some ideas to get you started:-->
   <li>React</li>
   <li>SCSS</li>
   <li>PHP</li>
-  <li>REST API</li>
+  <li>Tailwind</li>
+  <li>TypeScript</li>
 </ul>
 <h2>Stack:</h2>
 <p>
