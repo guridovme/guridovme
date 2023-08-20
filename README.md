@@ -17,6 +17,7 @@ Here are some ideas to get you started:-->
 <h2>🌱 I’m currently learning:</h2>
 
 <ul>
+  <li>GIT</li>
   <li>Wordpress</li>
   <li>Vite</li>
   <li>React</li>
