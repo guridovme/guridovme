@@ -12,6 +12,7 @@ Here are some ideas to get you started:-->
   <li>Karaoke Bar</li>
   <li>React Metrica</li>
   <li>Trips Gallery</li>
+  <li>Interno</li>
 </ol>
 
 <h2>🌱 I’m currently learning:</h2>
