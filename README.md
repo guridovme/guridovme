@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
   <li>Karaoke Bar</li>
   <li>React Metrica</li>
   <li>Trips Gallery</li>
-  <li>Interno</li>
+  <li><a href="https://interno.guridov.ru/" target="_blank">Interno</a></li>
 </ol>
 
 <h2>🌱 I’m currently learning:</h2>
