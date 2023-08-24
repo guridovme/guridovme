@@ -7,12 +7,12 @@ Here are some ideas to get you started:-->
 
 <h2>🔭 I’m currently working on my projects:</h2>
 <ol>
-  <li>Movies List</li>
-  <li>Movie Search App</li>
-  <li>Karaoke Bar</li>
-  <li>React Metrica</li>
-  <li>Trips Gallery</li>
-  <li><a href="https://interno.guridov.ru/" target="_blank">Interno</a></li>
+  <li>Movies List (JavaScript)</li>
+  <li>Movie Search App (JavaScript)</li>
+  <li>Karaoke Bar (HTML + CSS)</li>
+  <li>React Metrica (React)</li>
+  <li>Trips Gallery (React)</li>
+  <li><a href="https://interno.guridov.ru/" target="_blank">Interno</a> (WordPress)</li>
 </ol>
 
 <h2>🌱 I’m currently learning:</h2>
