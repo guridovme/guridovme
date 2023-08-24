@@ -22,6 +22,7 @@ Here are some ideas to get you started:-->
   <li>Wordpress</li>
   <li>Vite</li>
   <li>React</li>
+  <li>NextJS</li>
   <li>SCSS</li>
   <li>PHP</li>
   <li>Tailwind</li>
