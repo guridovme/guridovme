@@ -13,6 +13,7 @@ Here are some ideas to get you started:-->
   <li>React Metrica (React)</li>
   <li>Trips Gallery (React)</li>
   <li><a href="https://interno.guridov.ru/" target="_blank">Interno</a> (WordPress)</li>
+  <li><a href="https://purpuremanicure.ru/" target="_blank"></a> (WP, Elementor)</li>
 </ol>
 
 <h2>🌱 I’m currently learning:</h2>
