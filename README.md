@@ -14,7 +14,7 @@ Here are some ideas to get you started:-->
   <li>Trips Gallery (React)</li>
   <li><a href="https://interno.guridov.ru/" target="_blank">Interno</a> (Figma, WordPress)</li>
   <li><a href="https://purpuremanicure.ru/" target="_blank">PurPureManicure</a> (WP, Elementor)</li>
-  <li><a href="https://stoavto48.ru/">STO Avto 48</a>(WP, Elementor)</li>
+  <li><a href="https://stoavto48.ru/">STO Avto 48</a> (WP, Elementor)</li>
 </ol>
 
 <h2>🌱 I’m currently learning:</h2>
